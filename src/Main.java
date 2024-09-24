@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import myFor.myFor;
 
 public class Main {
 

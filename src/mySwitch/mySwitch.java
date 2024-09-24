@@ -9,6 +9,7 @@ public class mySwitch {
         System.out.println("Inserisci un numero: ");
         int n = sc.nextInt();
         System.out.println(switcher(n));
+        sc.close();
     }
     public static String switcher (int n){
         String result ;
